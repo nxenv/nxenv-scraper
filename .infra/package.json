@@ -1,0 +1,12 @@
+{
+  "name": "scraper",
+  "devDependencies": {
+    "@types/node": "^18"
+  },
+  "dependencies": {
+    "@dailydotdev/pulumi-common": "^1.26.0",
+    "@pulumi/gcp": "^6.62.0",
+    "@pulumi/kubernetes": "^4.1.0",
+    "@pulumi/pulumi": "^3.78.1"
+  }
+}

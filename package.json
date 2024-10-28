@@ -30,7 +30,7 @@
     "fastify-rate-limit": "^5.7.0",
     "feedparser": "^2.2.10",
     "generic-pool": "^3.8.2",
-    "puppeteer": "^13.5.2"
+    "puppeteer": "^23.6.1"
   },
   "devDependencies": {
     "@types/feedparser": "^2.2.4",
